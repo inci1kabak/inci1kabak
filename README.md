@@ -1,4 +1,4 @@
-## Hi there 👋
+##👋 Hi I'm İnci.
 📫 How to reach me incikabak123@gmail.com
 
 <!--
