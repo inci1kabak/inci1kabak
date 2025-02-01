@@ -1,6 +1,6 @@
 ## 👋 Hi I'm İnci.
 
-📫 How to reach me incikabak123@gmail.com
+📫 How to reach me : incikabak123@gmail.com
 
 <!--
 **inci1kabak/inci1kabak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
