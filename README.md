@@ -3,6 +3,10 @@
 
 📫 How to reach me : incikabak123@gmail.com
 
+## 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inci1kabak&layout=compact&theme=tokyonight)
+
+
 <!--
 **inci1kabak/inci1kabak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
