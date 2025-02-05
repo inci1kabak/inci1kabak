@@ -1,5 +1,5 @@
 
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=black&background=FFFFFF00&center=true&vCenter=true&width=500&height=50&lines=Hello,+👋+my+name+is+İnci!)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=black&background=FFFFFF00&center=true&vCenter=true&width=500&height=50&lines=Hello 👋,+my+name+is+İnci!)
 
 ⚡Information system Engineering student at Sakarya University
 
