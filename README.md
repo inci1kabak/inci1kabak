@@ -1,10 +1,11 @@
 ## 👋 Hi I'm İnci.
+![İnci KABAK](https://readme-typing-svg.herokuapp.com?size=30&color=FF5733&lines=Merhaba!;Benim+Adım+Ahmet!;Hoş+Geldiniz!)
 ⚡Information system Engineering student at Sakarya University
 
 📫 How to reach me : incikabak123@gmail.com
 
-## 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inci1kabak&layout=compact&theme=tokyonight)
+
+
 
 
 <!--
