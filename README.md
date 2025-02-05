@@ -1,5 +1,5 @@
 ## 👋 Hi I'm İnci.
-![İnci KABAK](https://readme-typing-svg.herokuapp.com?size=30&color=FF5733&lines=Merhaba!;Benim+Adım+Ahmet!;Hoş+Geldiniz!)
+![İnci KABAK](https://readme-typing-svg.herokuapp.com?size=30&color=black&lines=My name is İnci!;Welcome!)
 ⚡Information system Engineering student at Sakarya University
 
 📫 How to reach me : incikabak123@gmail.com
