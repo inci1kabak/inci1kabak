@@ -8,6 +8,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inci-kabak-118442276/)
 
+<a href="https://www.linkedin.com/in/inci-kabak-118442276/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+
+
 
 
 
