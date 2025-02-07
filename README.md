@@ -6,20 +6,18 @@
 
 📫 How to reach me : incikabak123@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inci-kabak-118442276/)
-
 <a href="https://www.linkedin.com/in/inci-kabak-118442276/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
 
 <a href="https://medium.com/@incikabak123" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" alt="Medium" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width=30" height="30" style="border-radius: 5px;"/>
 </a>
 
 
-<a href="https://medium.com/@incikabak123" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="40" height="40" style="border-radius: 5px;"/>
-</a>
+
+
+
 
 
 
