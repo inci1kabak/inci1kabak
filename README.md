@@ -6,6 +6,9 @@
 
 📫 How to reach me : incikabak123@gmail.com
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inci-kabak-118442276/)
+
+
 
 
 
