@@ -12,6 +12,11 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 
+<a href="https://medium.com/@incikabak123" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" alt="Medium" width="40" height="40"/>
+</a>
+
+
 
 
 
