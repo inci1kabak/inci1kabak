@@ -17,6 +17,12 @@
 </a>
 
 
+<a href="https://medium.com/@incikabak123" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="40" height="40" style="border-radius: 5px;"/>
+</a>
+
+
+
 
 
 
