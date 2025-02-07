@@ -13,12 +13,6 @@
 <a href="https://medium.com/@incikabak123" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width=30" height="30" style="border-radius: 5px;"/>
 </a>
-<a href="https://www.kaggle.com/ncikabak" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="40" height="40"/>
-</a>
-<a href="https://www.kaggle.com/ncikabak" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" alt="Kaggle" width="40" height="40"/>
-</a>
 
 
 
