@@ -13,7 +13,7 @@
 
 
 <a href="https://medium.com/@incikabak123" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width=30" height="30" style="border-radius: 5px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="30" height="30" style="border-radius: "5px;"/>
 </a>
 
 
