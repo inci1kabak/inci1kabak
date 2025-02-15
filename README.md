@@ -5,7 +5,7 @@
 
 ⚡Information System Engineering student at Sakarya University
 
-📫 How to reach me : incikabak123@gmail.com
+📫 How to reach me :incikabak123@gmail.com
 
 <a href="https://www.linkedin.com/in/inci-kabak-118442276/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
